@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculo Percurso</string>
+    <string name="buttonpermissionGPS">Conceder Permissão GPS</string>
+    <string name="permissaoconcedida">"Permissão já concedida"</string>
+    <string name="buttonenableGPS">Ativar GPS</string>
+    <string name="buttonDisableGPS">Desativar GPS</string>
+    <string name="button_startRote">Iniciar Rota</string>
+    <string name="buttonFinishRote">Finalizar Rota</string>
+    <string name="textDistance">Distância Percorrida</string>
+    <string name="textTime">Tempo passado</string>
+    <string name="Find">O que deseja encontrar?</string>
+    <string name="Permissão">Conceda permissão GPS</string>
+    <string name="gps1">"GPS deve estar ativado"</string>
+    <string name="gps2">"GPS deve estar desativado"</string>
+    <string name="lat_long" translatable="false">Lat: %f, Long: %f</string>
+    <string name="results">%f metros</string>
+    <string name="Iniciado">Inicie percurso antes de termina-lo</string>
+    <string name="uri_mapa" translatable="false">geo:%f, %f?q=%s</string>
+</resources>
